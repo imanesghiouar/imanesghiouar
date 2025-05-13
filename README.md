@@ -1,4 +1,13 @@
-# 🌟 Imane's Data Adventures 🌟<br><br>Welcome to my playground! I'm **Imane**, a Data Scientist, Big Data, and AI Engineering student at ENSA Tetouan . This repo is where I turn data into magic, solve puzzles, and have some fun along the way. Grab a coffee ☕ and let’s explore!<br><br>---<br><br>## 🎒 About Me<br>- 🎓 **Student**: Mastering Data Science, Big Data, and IA.<br>- ✨ **Hobbies**: Solving puzzle games, reading, and sipping coffee while debugging code.<br>- 🚀 **Goal**: To build awesome projects and make data dance!<br>- 📧 **Contact**: [iam.imane.sghiouar@gmail.com] 
+# 🌟 Imane's Data Adventures 🌟
+
+Welcome to my playground! I'm **Imane**, a Data Scientist, Big Data, and AI Engineering student at ENSA Tetouan. This repo is where I turn data into magic, solve puzzles, and have some fun along the way. Grab a coffee ☕ and let’s explore!
+
+---
+
+## 🎒 About Me
+- 🎓 **Student**: Mastering Data Science, Big Data, and IA.
+- ✨ **Hobbies**: Solving puzzle games, reading, and sipping coffee while debugging code.
+- 🚀 **Goal**: To build awesome projects and make data dance!
 
 
 ## 🌐 Socials:
