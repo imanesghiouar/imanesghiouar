@@ -10,10 +10,6 @@ Welcome to my playground! I'm **Imane**, a Data Scientist, Big Data, and AI Engi
 - 🚀 **Goal**: To build awesome projects and make data dance!
 
 
-# 💫 About Me:
-# 🌟 Imane's Data Adventures 🌟<br><br>Welcome to my playground! I'm **Imane**, a Data Scientist, Big Data, and AI Engineering student at ENSA Tetouan . This repo is where I turn data into magic, solve puzzles, and have some fun along the way. Grab a coffee ☕ and let’s explore!<br><br>---<br><br>## 🎒 About Me<br>- 🎓 **Student**: Mastering Data Science, Big Data, and IA.<br>- ✨ **Hobbies**: Solving puzzle games, reading, and sipping coffee while debugging code.<br>- 🚀 **Goal**: To build awesome projects and make data dance!<br>- 📧 **Contact**: [iam.imane.sghiouar@gmail.com] 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sghiouar-9923b222b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iam.imane.sghiouar@gmail.com) 
 
